@@ -5,7 +5,7 @@ export const NAV_LINKS = [
   { label: 'خدماتنا', href: '/services' },
   { label: 'الدراسة في الخارج', href: '/destinations' },
   { label: 'المنح الدراسية', href: '/scholarships' },
-  { label: 'الجامعات', href: '/universities' },
+
   { label: 'المدونة', href: '/blog' },
   { label: 'تواصل معنا', href: '/contact' },
   { label: 'قدم الآن', href: '/apply', highlight: true },
